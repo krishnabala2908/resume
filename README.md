@@ -1,2 +1,2 @@
-# resume
-digital cv profile
+# Resume
+Digital CV 
